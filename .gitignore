@@ -3,4 +3,5 @@
 !.gitignore
 
 !LICENSE
+!Readme.md
 !settings.yml
