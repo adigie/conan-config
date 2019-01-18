@@ -6,3 +6,6 @@
 !Readme.md
 !registry.json
 !settings.yml
+
+!profiles/
+!profiles/*

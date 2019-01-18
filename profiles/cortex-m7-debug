@@ -1,0 +1,15 @@
+
+[settings]
+os=Generic
+arch=cortex-m7
+compiler=gcc
+compiler.version=8
+build_type=Debug
+
+[options]
+
+[build_requires]
+cortex-m-toolchain/0.1.0@adigie/testing
+
+[env]
+
